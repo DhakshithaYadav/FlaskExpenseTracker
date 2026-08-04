@@ -1,5 +1,3 @@
-Flask
-Flask_SQLA1chemy
-Flask_WTF
-WTForms
-gunicorn
+Flask==3.0.3
+Flask_SQLA1chemy==3.1.1
+gunicorn==23.0.0
