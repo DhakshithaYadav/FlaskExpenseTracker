@@ -1,2 +1,5 @@
 Flask
+Flask-SQLA1chemy
+Flask-WTF
+WTForms
 gunicorn
